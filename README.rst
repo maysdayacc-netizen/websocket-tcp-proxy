@@ -1,11 +1,11 @@
 ==================================
-Stupid WebSocket TCP Proxy (SWTP)
+WebSocket TCP Proxy (SWTP)
 ==================================
 
 Description
 -----------
 
-**A very stupid WebSocket server in order to proxy TCP connections (using websockets with unmodified TCP servers).**
+**A very WebSocket server in order to proxy TCP connections (using websockets with unmodified TCP servers).**
 
 Don’t reinvent the wheel, use your existing tcp servers with this STUPID proxy.
 
